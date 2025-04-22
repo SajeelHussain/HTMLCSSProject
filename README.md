@@ -16,9 +16,9 @@ A modern, responsive web project showcasing science and technology articles in a
 ## Screenshots
 Screenshots of the site are located in the `screenshots` folder.
 
-| Full View | Medium Screen | Mobile View |
-|-----------|---------------|-------------|
-| ![Full View](screenshots/Full%20View%20.png) | ![Medium Screen](screenshots/Medium%20Screen%20Size%20view.png) | ![Mobile View](screenshots/Mobile%20Screen%20Size%20View.png) |
+| Full View | Medium Screen Size View | Mobile Screen Size View |
+|-----------|------------------------|------------------------|
+| ![Full View](screenshots/Full View.png) | ![Medium Screen Size View](screenshots/Medium Screen Size view.png) | ![Mobile Screen Size View](screenshots/Mobile Screen Size View.png) |
 
 > These screenshots show the site's responsiveness on desktop, tablet/medium, and mobile screens.
 
