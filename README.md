@@ -18,7 +18,7 @@ Screenshots of the site are located in the `screenshots` folder.
 
 | Full View | Medium Screen Size View | Mobile Screen Size View |
 |-----------|------------------------|------------------------|
-| ![Full View](screenshots/Full View.png) | ![Medium Screen Size View](screenshots/Medium Screen Size view.png) | ![Mobile Screen Size View](screenshots/Mobile Screen Size View.png) |
+| ![Full View](Screenshots/Full_View.png) | ![Medium Screen Size View](Screenshots/Medium_Screen_Size_View.png) | ![Mobile Screen Size View](Screenshots/Mobile_Screen_Size_View.png) |
 
 > These screenshots show the site's responsiveness on desktop, tablet/medium, and mobile screens.
 
@@ -31,3 +31,4 @@ Screenshots of the site are located in the `screenshots` folder.
   |-- screenshots/
   |-- README.md
 ```
+
