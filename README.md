@@ -31,6 +31,3 @@ Screenshots of the site are located in the `screenshots` folder.
   |-- screenshots/
   |-- README.md
 ```
-
-## License
-This project is for educational purposes. Feel free to use, modify, and share!
