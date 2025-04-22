@@ -7,21 +7,7 @@ html, body {
 /* =================
     Site Layout 
    ================= */
-/* 
-Challenge:
-    1. Get the header, main, and footer 
-       into a vertical column. 
-    2. Put an em of space between them 
-       vertically.
-    3. Put an em of space above the header, 
-       below the footer, and to the left and 
-       right of all three elements.  
-    Have you learned any good techniques 
-       for creating empty rows/columns in a grid?
-    You do NOT need to use the 'margin' 
-       property to complete this challenge.
-    hint.md for help!
- */
+
 
 .layout-wrapper {
     display: grid;
